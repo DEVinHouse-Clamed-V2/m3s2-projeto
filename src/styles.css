@@ -1,0 +1,9 @@
+:root {
+  --blue-1: #189ad3;
+  --blue-2: #4682b4;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+}
